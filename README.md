@@ -103,7 +103,7 @@
     - A list of tools, papers and code related to Fake Audio Detection.
     - [Repo](https://github.com/john852517791/awesome-fake-audio-detection?tab=readme-ov-file)
 - **ASVspoof Challenge Official Repository**
-    - [ASVspoof 5](https://github.com/asvspoof-challenge/asvspoof5), [ASVspoof 2021](https://github.com/asvspoof-challenge/2021), [classifier-adjacency](https://github.com/asvspoof-challenge/classifier-adjacency).
+    - Sub-repositories include [ASVspoof 5](https://github.com/asvspoof-challenge/asvspoof5), [ASVspoof 2021](https://github.com/asvspoof-challenge/2021), and [classifier-adjacency](https://github.com/asvspoof-challenge/classifier-adjacency).
     - [Repo](https://github.com/asvspoof-challenge)
 
 # <span id="SpeechLargeModel">Audio Large Model</span>
