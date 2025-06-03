@@ -28,7 +28,7 @@
 - [Statement](#statement)
 
 # What's New
-- [Update May. 31, 2025] 🔥🔥🔥 Updated [Datasets](#Datasets), [Survey](#survey), and [Top Repositories](#top-repositories).
+- [Update Jun. 3, 2025] 🔥🔥🔥 Updated [Datasets](#Datasets), [Survey](#survey), and [Top Repositories](#top-repositories).
 - [Update Feb. 20, 2025] Updated [Datasets](#Datasets), Added [Survey](#survey) and [Top Repositories](#top-repositories).
 
 # Survey
@@ -164,6 +164,7 @@
 |TTS <br>and VC|2024|VoiceEdit<br>[Paper](https://arxiv.org/abs/2402.06304)|-|Multi-lingual|
 |TTS <br>and VC|2024|RFP<br>[Paper](https://arxiv.org/abs/2404.17721) [Dataset](https://zenodo.org/records/10202142)|28,115/74,199|English|
 |TTS <br>and VC|2025|MADD<br>[Paper](https://ieeexplore.ieee.org/document/10800535)|60,000/129,990|Multi-lingual|
+|TTS <br>and VC|2025|XMAD-Bench<br>[Paper](https://arxiv.org/pdf/2506.00462) [Dataset](https://github.com/ristea/xmad-bench/)|414,858|Multi-lingual|
 |TTS <br>and Vocoder|2024|Diffuse or Confuse<br>[Paper](https://arxiv.org/abs/2410.06796) [Dataset](https://github.com/AntonFirc/diffusion-deepfake-speech-dataset/)|131,000/183,400|English|
 |TTS <br>and Vocoder|2025|ShiftySpeech<br>[Paper](https://arxiv.org/abs/2502.05674) [Dataset](https://huggingface.co/datasets/ash56/ShiftySpeech)|3,000+ hours|English, Chinese,<br>Japanese|
 |TTS, VC<br>and Replay|2019|ASVspoof 2019<br>[Paper](https://arxiv.org/abs/1904.05441) [Dataset](https://datashare.ed.ac.uk/handle/10283/3336)|LA: 12,483/108,978<br>PA: 28,890/189,540|English|
